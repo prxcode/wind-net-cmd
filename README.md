@@ -1,4 +1,10 @@
-# do-not-run-cmd
+# best-curl-commands-for-terminal
 
-- 'curl ascii.live/rick' in CMD
-- 1IPbRffj4Y7_IIxL4g5xoLFFbEv6KFQg1
+- curl ascii.live/rick
+- curl ascii.live/forrrest
+- curl ascii.live/donut
+- curl ascii.live/coin
+- curl ascii.live/playstation
+- curl ascii.live/parrot
+
+  
