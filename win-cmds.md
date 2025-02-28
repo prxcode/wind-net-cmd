@@ -108,3 +108,8 @@ vol <Driveletter>
 ```
 hostname
 ```
+
+## 20. To view character map: Command used to view character symbol map
+```
+charmap
+```
